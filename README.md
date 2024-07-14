@@ -11,6 +11,8 @@ I am a passionate and skilled Front End Developer, Content Writer, and Web Desig
 - **Photoshop**
 
 ### Web Technologies
+- **SELENIUM**
+- **BS5**
 - **HTML5**
 - **CSS3**
 - **JavaScript**
@@ -25,7 +27,7 @@ I am a passionate and skilled Front End Developer, Content Writer, and Web Desig
 ### Programming Languages
 - **Python**
 - **Java**
-
+- **Javascript**
 ### Version Control and Tools
 - **Git**
 - **VS Code**
